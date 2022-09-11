@@ -14,11 +14,10 @@ I'm a [@birazn](https://www.onucleo.com.br/).
 
 
  <div>
-  <a href="https://github.com/biazn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/birazn" target="_blank">BIRAZN</a> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=tokyonight"/>
  </div>
  
-
  
  
