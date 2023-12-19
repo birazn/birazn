@@ -1,6 +1,6 @@
 # Hi, I'm Ubiratan! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/birazn)](https://github.com/birazn)
+[![Github Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/birazn)](https://github.com/birazn)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/birazn/)](https://www.linkedin.com/in/birazn/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/birazn)](https://twitter.com/birazn)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/birazn)](https://www.youtube.com/user/birazn)
@@ -14,7 +14,6 @@ I'm a [@birazn](https://www.onucleo.com.br/).
 - [Website](https://onucleo.com.br/) 💻 - Working on it.
 
  <div>
-  <a href="https://github.com/birazn" target="_blank">BIRAZN</a> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=birazn&theme=react&hide_border=true"/>
