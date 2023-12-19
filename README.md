@@ -7,6 +7,13 @@
 
 
 ### About me
+## Mais sobre mim
+
+<img align="right" width="300" src="img/sisadmin.png" />
+
+```bash
+echo "Ubiratan Zakaib do Nascimento"
+```
 I'm a [@birazn](https://www.onucleo.com.br/).
 
 - [Courses](https://www.onucleo.com.br/) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
