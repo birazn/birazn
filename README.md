@@ -6,13 +6,17 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/birazn)](https://www.youtube.com/user/birazn)
 
 
-### About me
 ## Mais sobre mim
 
 <img align="right" width="300" src="img/sisadmin.png" />
 
 ```bash
+!#/bin/bash
+echo "Quem sou eu"
 echo "Ubiratan Zakaib do Nascimento"
+echo "O que eu faço"
+echo "Professor e entusiasta de tecnologia"
+
 ```
 I'm a [@birazn](https://www.onucleo.com.br/).
 
