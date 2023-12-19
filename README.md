@@ -15,9 +15,8 @@ I'm a [@birazn](https://www.onucleo.com.br/).
 
  <div>
   <a href="https://github.com/birazn" target="_blank">BIRAZN</a> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=tokyonight"/>
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=prussian&show_icons=true&hide_border=false&count_private=false&include_all_commits=true" />
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
  </div>
- 
- 
- 
