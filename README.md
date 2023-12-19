@@ -14,9 +14,12 @@
 #!/bin/bash
 echo "Quem sou eu"
 echo "Ubiratan Zakaib do Nascimento"
+
 echo "O que eu faço"
 echo "Professor e entusiasta de tecnologia"
 
+echo "Áreas de Interesse"
+echo "Infraestrutura, segurança, linux, servidores e redes"
 ```
 I'm a [@birazn](https://www.onucleo.com.br/).
 
