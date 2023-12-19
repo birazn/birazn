@@ -8,7 +8,7 @@
 
 ## Mais sobre mim
 
-<img align="right" width="300" src="img/sisadmin.png" />
+<img align="right" width="200" src="img/sisadmin.png" />
 
 ```bash
 #!/bin/bash
