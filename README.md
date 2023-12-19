@@ -16,11 +16,7 @@ I'm a [@birazn](https://www.onucleo.com.br/).
 
  <div>
   <a href="https://github.com/birazn" target="_blank">BIRAZN</a> <br>
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=prussian&show_icons=true&hide_border=false&count_private=false&include_all_commits=true" />
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=birazn&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact"/>
  </div>
-![birazn's Stats](https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false)
-![birazn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=birazn&theme=react&hide_border=true)
-![birazn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact)
