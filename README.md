@@ -13,10 +13,9 @@ I'm a [@birazn](https://www.onucleo.com.br/).
 - [Blog](https://www.onucleo.com.br/) ✍🏼 - I'm write about many things.
 - [Website](https://onucleo.com.br/) 💻 - Working on it.
 
-
  <div>
   <a href="https://github.com/birazn" target="_blank">BIRAZN</a> <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=birazn&theme=react&hide_border=true"/>
  </div>
