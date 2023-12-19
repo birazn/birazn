@@ -5,6 +5,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/birazn)](https://twitter.com/birazn)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/birazn)](https://www.youtube.com/user/birazn)
 
+https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+
 ### About me
 I'm a [@birazn](https://www.onucleo.com.br/).
 
@@ -20,3 +22,6 @@ I'm a [@birazn](https://www.onucleo.com.br/).
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=prussian&show_icons=true&hide_border=false&layout=compact"/>
  </div>
+![birazn's Stats](https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false)
+![birazn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=birazn&theme=react&hide_border=true)
+![birazn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact)
