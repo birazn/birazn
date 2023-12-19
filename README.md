@@ -8,18 +8,15 @@
 
 ## Mais sobre mim
 
-<img align="right" width="250" src="img/sisadmin.png" />
+<img align="right" width="280" src="img/sisadmin.png" />
 
 ```bash
 #!/bin/bash
-echo "Quem sou eu"
-echo "Ubiratan Zakaib do Nascimento"
+echo "Quem sou eu: Ubiratan Zakaib do Nascimento"
 
-echo "O que eu faço"
-echo "Professor e entusiasta de tecnologia"
+echo "O que eu faço: Professor e entusiasta de tecnologia"
 
-echo "Áreas de Interesse"
-echo "Infraestrutura, segurança, linux, servidores e redes"
+echo "Áreas de Interesse: Infraestrutura, Segurança, Sysadmin"
 ```
 I'm a [@birazn](https://www.onucleo.com.br/).
 
