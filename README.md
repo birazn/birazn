@@ -11,7 +11,7 @@
 <img align="right" width="300" src="img/sisadmin.png" />
 
 ```bash
-!#/bin/bash
+#!/bin/bash
 echo "Quem sou eu"
 echo "Ubiratan Zakaib do Nascimento"
 echo "O que eu faço"
