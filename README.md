@@ -18,13 +18,10 @@ echo "O que eu faço: Professor e entusiasta de tecnologia"
 
 echo "Áreas de Interesse: Infraestrutura, Segurança, Sysadmin"
 ```
-![birazn's Stats](https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=false&count_private=true)
-![birazn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=false&layout=compact)
-
 
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false&include_all_commits=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact"/>
  </div>
  
  <div align="center">
