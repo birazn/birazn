@@ -18,11 +18,9 @@ echo "O que eu faço: Professor e entusiasta de tecnologia"
 
 echo "Áreas de Interesse: Infraestrutura, Segurança, Sysadmin"
 ```
-I'm a [@birazn](https://www.onucleo.com.br/).
+![birazn's Stats](https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=false&count_private=true)
+![birazn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=false&layout=compact)
 
-- [Courses](https://www.onucleo.com.br/) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.onucleo.com.br/) ✍🏼 - I'm write about many things.
-- [Website](https://onucleo.com.br/) 💻 - Working on it.
 
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false&include_all_commits=true"/>
