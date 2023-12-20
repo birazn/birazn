@@ -27,7 +27,7 @@ I'm a [@birazn](https://www.onucleo.com.br/).
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birazn&theme=react&show_icons=true&hide_border=true&count_private=false&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birazn&theme=react&show_icons=true&hide_border=true&layout=compact"/>
-  </div>
+ </div>
  
  <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
