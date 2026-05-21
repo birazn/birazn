@@ -21,7 +21,6 @@ echo "Áreas de Interesse: Infraestrutura, Segurança, Sysadmin"
 
  <div align="center">
  	<img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=birazn&show_icons=true&theme=dark"/>
- 	<img height="150em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=birazn&theme=dark"/>
  	<img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=birazn&layout=compact&theme=dark"/>
  <hr/>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
